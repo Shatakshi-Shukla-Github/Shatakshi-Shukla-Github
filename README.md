@@ -2,7 +2,7 @@
 <ul>
 <li>I'm Shatakshi, a full-stack web developer based in India</li>
 <li>I break and build whatever I can imagine</li>
-<li>My main tech stack JavaScript, React, Node.js, MongoDB. My favourite tools are Git & GitHub.</li>
+<li>My main tech stack is JavaScript, React, Node.js, MongoDB. My favourite tools are Git & GitHub.</li>
 <li>I don’t chase consistency, consistency follows me.😼</li>
 </ul>
   <!--
