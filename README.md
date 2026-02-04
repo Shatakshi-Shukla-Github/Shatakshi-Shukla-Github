@@ -1,8 +1,8 @@
 ## Hey there 👋
-I'm Shatakshi, a full-stack web developer based in India
-I break and build whatever I can imagine
-My main tech stack JavaScript, React, Node.js, MongoDB. My favourite tools are Git & GitHub.
-I don’t chase consistency, consistency follows me.😼
+-I'm Shatakshi, a full-stack web developer based in India
+-I break and build whatever I can imagine
+-My main tech stack JavaScript, React, Node.js, MongoDB. My favourite tools are Git & GitHub.
+-I don’t chase consistency, consistency follows me.😼
 <!--
 **Shatakshi-Shukla-Github/Shatakshi-Shukla-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
