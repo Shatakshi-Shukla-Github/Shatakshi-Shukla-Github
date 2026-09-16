@@ -2,10 +2,10 @@
   <h1>Hi there, I'm Shatakshi Shukla 👋</h1>
 </div>
 
-<div align="center"><h2>Full Stack Developer</h2></div>
+<div align="center"><h3>A Full Stack Developer!</h3></div>
 
 
-Useful Links:
+<h3>Useful Links:</h3>
 <div>
 <a href="https://linkedin.com/in/shatakshi-shukla-36b442343" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,7 +16,8 @@ Useful Links:
 </div>
 
 
-### Languages and Tools:
+<h3>Languages and Tools:</h3>
+<div>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -29,3 +30,4 @@ Useful Links:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+</div>
