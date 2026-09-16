@@ -2,16 +2,18 @@
   <h1>Hi there, I'm Shatakshi Shukla 👋</h1>
 </div>
 
+<div align="center"><h2>Full Stack Developer</h2></div>
 
-I'm a **Full Stack Developer** building functional web applications from the database up to the user interface.
 
 Useful Links:
+<div>
 <a href="https://linkedin.com/in/shatakshi-shukla-36b442343" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shatakshishukla49@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</div>
 
 
 ### Languages and Tools:
