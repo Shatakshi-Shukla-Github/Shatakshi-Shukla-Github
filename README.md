@@ -5,6 +5,15 @@
 
 I'm a **Full Stack Developer** building functional web applications from the database up to the user interface.
 
+Useful Links:
+<a href="https://linkedin.com/in/shatakshi-shukla-36b442343" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shatakshishukla49@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
 ### Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
