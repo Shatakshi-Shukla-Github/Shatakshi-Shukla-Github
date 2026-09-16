@@ -1,4 +1,7 @@
+<div align="center">
 ### Hi there, I'm Shatakshi Shukla 👋
+</div>
+
 
 I'm a **Full Stack Developer** building functional web applications from the database up to the user interface.
 
