@@ -39,6 +39,6 @@
 </div>
 
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shatakshi-Shukla-Github&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
