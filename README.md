@@ -8,7 +8,7 @@
 <h3>Useful Links:</h3>
 <div>
 <a href="https://linkedin.com/in/shatakshi-shukla-36b442343" target="_blank">
-  <img src="https://jsdelivr.net" alt="LinkedIn Logo" width="40" height="40">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </a>
