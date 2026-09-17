@@ -6,7 +6,7 @@
 
 <ul>
   <p>
-  <li>🏫 Bachelors of Technology student at Mumbai University</li>
+  <li>🏫 Bachelor of Technology student at Mumbai University</li>
     </p>
   <p>
   <li>📫 How to reach me <a href="mailto:shatakshishukla49@gmail.com">shatakshishukla49@gmail.com</a></li>
