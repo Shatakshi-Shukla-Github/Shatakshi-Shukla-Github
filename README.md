@@ -7,7 +7,7 @@
 <ul>
   <li>🏫 Bachelors of Technology student at Mumbai University</li>
   <li>📫 How to reach me <a href="mailto:shatakshishukla49@gmail.com">shatakshishukla49@gmail.com</a></li>
-<li>📄 Know about my professional skills<a href="https://drive.google.com/drive/folders/1oytEaQHI6XcbElzrwiHbsTgcWp4am9Up">Resume</a></li>
+<li>📄 Know about my professional skills <a href="https://drive.google.com/drive/folders/1oytEaQHI6XcbElzrwiHbsTgcWp4am9Up">Resume</a></li>
 </ul>
 
 <h3>Useful Links:</h3>
