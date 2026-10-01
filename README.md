@@ -50,6 +50,10 @@
 </div>
 
 <div>
+<img src="https://github-readme-stats.vercel.app/api?username=Shatakshi-Shukla-Github&show_icons=true&theme=radical"/>
+</div>
+
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shatakshi-Shukla-Github&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
