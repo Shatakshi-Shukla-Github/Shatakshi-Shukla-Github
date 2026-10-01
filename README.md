@@ -46,7 +46,7 @@
 </div>
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi-Shukla-Github&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi-Shukla-Github&layout=compact&theme=radical"/>
 </div>
 
   <div align="center">
