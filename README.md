@@ -49,7 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shatakshi-Shukla-Github&layout=compact&theme=radical"/>
 </div>
 
-  <div>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shatakshi-Shukla-Github&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
