@@ -45,6 +45,10 @@
 </p>
 </div>
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shatakshi-Shukla-Github&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
